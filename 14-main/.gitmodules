@@ -1,0 +1,11 @@
+[submodule "poky"]
+	path = poky
+	url = https://course-gitlab.tuni.fi/comp-ce-460-embedded-linux-drivers_2024-2025/poky.git
+	branch = rocko
+[submodule "meta-xilinx"]
+	path = meta-xilinx
+	url = https://course-gitlab.tuni.fi/comp-ce-460-embedded-linux-drivers_2024-2025/meta-xilinx.git
+	branch = rocko
+[submodule "meta-pynq"]
+	path = meta-pynq
+	url = https://course-gitlab.tuni.fi/comp-ce-460-embedded-linux-drivers_2024-2025/meta-pynq.git
